@@ -10,62 +10,84 @@
 ### II. Práva a povinnosti členov spoločenstva
 
 1. Pomer účasti členov spoločenstva na výkone práv a povinností vyplývajúcich z členstva v spoločenstve je vyjadrený podielmi na spoločnej nehnuteľnosti, pričom sa odvíja od súčtu výmer podielov, ktoré člen v spoločenstve vlastní.
-2. Člen spoločenstva je povinný nahlásiť akékoľvek zmeny evidovaných skutočností do dvoch mesiacov od ich vzniku.
-3. Pri prevode podielu na spoločnej nehnuteľnosti medzi členmi spoločenstva sa predkupné právo neuplatňuje. Ak člen prevádza spoluvlastnícky podiel na tretiu osobu mimo spoločenstva, ostatní spoluvlastníci majú k tomuto podielu predkupné právo. Predávajúci člen je povinný prednostne ponúknuť podiel ostatným spoluvlastníkom, a to buď:
 
-   * a) **osobitnou ponukou** zaslanou priamo jednotlivým spoluvlastníkom, alebo
-   * b) **prostredníctvom výboru spoločenstva**, v takom prípade výbor túto ponuku oznámi v pozvánke na najbližšie valné zhromaždenie a podrobnosti ponuky zverejní výlučne až v deň konania valného zhromaždenia, aby sa o nej mohlo priamo rokovať a rozhodnúť na zasadnutí zhromaždenia.
+2. Člen spoločenstva je povinný nahlásiť akékoľvek zmeny evidovaných skutočností do dvoch mesiacov od ich vzniku.
+
+3. Pri prevode podielu na spoločnej nehnuteľnosti medzi členmi spoločenstva sa predkupné právo neuplatňuje. Ak člen prevádza spoluvlastnícky podiel na tretiu osobu mimo spoločenstva, ostatní spoluvlastníci majú k tomuto podielu predkupné právo. Predávajúci člen je povinný prednostne ponúknuť podiel ostatným spoluvlastníkom, a to buď:
+    * a) **osobitnou ponukou** zaslanou priamo jednotlivým spoluvlastníkom, alebo
+    * b) **prostredníctvom výboru spoločenstva**, v takom prípade výbor túto ponuku oznámi v pozvánke na najbližšie valné zhromaždenie a podrobnosti ponuky zverejní výlučne až v deň konania valného zhromaždenia, aby sa o nej mohlo priamo rokovať a rozhodnúť na zasadnutí zhromaždenia.
 
 ### III. Zasadnutie zhromaždenia a hlasovanie
 
 1. Zhromaždenie zvoláva výbor spoločenstva najmenej raz za rok. Oznámenie o zasadnutí zhromaždenia (pozvánka) sa uverejňuje najmenej 25 dní pred jeho konaním. Obvyklým miestom zverejnenia oznámení a informácií spoločenstva je **webové sídlo urbar.dulovaves.sk** a **úradná tabuľa obce Dulová Ves**.
-2. Výbor spoločenstva zasiela pozvánku členom písomne v listovej podobe poštou na adresu uvedenú v zozname členov, alebo v elektronickej podobe (e-mailom, prípadne krátkou textovou správou SMS s prepojením na webové sídlo spoločenstva) na e-mailovú adresu alebo telefónne číslo, ktoré člen na tento účel spoločenstvu písomne oznámil a udelil súhlas s elektronickou komunikáciou. Možnosť elektronického doručovania pozvánok nevylučuje povinnosť spoločenstva doručiť pozvánku v listovej podobe členom, ktorí neposkytli súhlas s elektronickou komunikáciou.
-3. Do pôsobnosti zhromaždenia patrí:
 
-   * a) schvaľovať zmluvu o spoločenstve a jej zmeny okrem zmien v zozname členov a zozname nehnuteľností,
-   * b) schvaľovať stanovy a jej zmeny,
-   * c) voliť a odvolávať členov a náhradníkov členov orgánov spoločenstva,
-   * d) rozhodovať o oddelení časti spoločnej nehnuteľnosti podľa § 8 ods. 2 zákona č. 97/2013 Z. z.,
-   * e) rozhodovať o poverení spoločenstva konať vo veci nadobudnutia vlastníctva podielu na spoločnej nehnuteľnosti podľa § 9 ods. 10 zákona č. 97/2013 Z. z.,
-   * f) rozhodovať o hospodárení spoločenstva, spôsobe užívania spoločnej nehnuteľnosti a spoločne obhospodarovaných nehnuteľností a nakladaní s majetkom spoločenstva,
-   * g) schvaľovať účtovnú závierku,
-   * h) rozhodovať o rozdelení zisku a majetku spoločenstva určenom na rozdelenie medzi členov spoločenstva a spôsobe úhrady straty,
-   * i) rozhodovať o vstupe a podmienkach vstupu spoločenstva do obchodnej spoločnosti alebo do družstva,
-   * j) rozhodovať o zrušení spoločenstva,
-   * k) rozhodovať o ďalších záležitostiach spoločenstva, ak rozhodovanie o nich nie je zverené iným orgánom spoločenstva.
+2. Výbor spoločenstva zasiela pozvánku členom písomne v listovej podobe poštou na adresu uvedenú v zozname členov, alebo v elektronickej podobe (e-mailom, prípadne krátkou textovou správou SMS s prepojením na webové sídlo spoločenstva) na e-mailovú adresu alebo telefónne číslo, ktoré člen na tento účel spoločenstvu písomne oznámil a udelil súhlas s elektronickou komunikáciou. Možnosť elektronického doručovania pozvánok nevylučuje povinnosť spoločenstva doručiť pozvánku v listovej podobe členom, ktorí neposkytli súhlas s elektronickou komunikáciou.
+
+3. Do pôsobnosti zhromaždenia patrí:
+    * a) schvaľovať zmluvu o spoločenstve a jej zmeny okrem zmien v zozname členov a zozname nehnuteľností,
+    * b) schvaľovať stanovy a jej zmeny,
+    * c) voliť a odvolávať členov a náhradníkov členov orgánov spoločenstva,
+    * d) rozhodovať o oddelení časti spoločnej nehnuteľnosti podľa § 8 ods. 2 zákona č. 97/2013 Z. z.,
+    * e) rozhodovať o poverení spoločenstva konať vo veci nadobudnutia vlastníctva podielu na spoločnej nehnuteľnosti podľa § 9 ods. 10 zákona č. 97/2013 Z. z.,
+    * f) rozhodovať o hospodárení spoločenstva, spôsobe užívania spoločnej nehnuteľnosti a spoločne obhospodarovaných nehnuteľností a nakladaní s majetkom spoločenstva,
+    * g) schvaľovať účtovnú závierku,
+    * h) rozhodovať o rozdelení zisku a majetku spoločenstva určenom na rozdelenie medzi členov spoločenstva a spôsobe úhrady straty,
+    * i) rozhodovať o vstupe a podmienkach vstupu spoločenstva do obchodnej spoločnosti alebo do družstva,
+    * j) rozhodovať o zrušení spoločenstva,
+    * k) rozhodovať o ďalších záležitostiach spoločenstva, ak rozhodovanie o nich nie je zverené iným orgánom spoločenstva.
 
 4. Hlasovanie na zhromaždení je **výmerové hlasovanie**, pri ktorom sa váha hlasu každého člena odvíja priamo od súčtu výmer jeho podielov na spoločnej nehnuteľnosti. Pri rozhodovaní sa nesleduje počet prítomných osôb (hláv), ale súčet výmer (m²) podielov, ktoré prítomné osoby alebo nimi splnomocnení zástupcovia zastupujú.
+
 5. Zhromaždenie rozhoduje v súlade s ustanoveniami § 14 a § 15 zákona č. 97/2013 Z. z. o pozemkových spoločenstvách v znení neskorších predpisov.
 
 ### IV. Orgány spoločenstva a voľby
 
 1. Výbor je výkonný a štatutárny orgán spoločenstva. Za výbor koná navonok predseda spoločenstva. Na platnosť písomných právnych úkonov, ktoré robí výbor, je potrebný **podpis predsedu a aspoň jedného povereného člena výboru**. Pri každom podpise zmluvy alebo právnom úkone je nutné uviesť číslo uznesenia o poverení výboru pred podpisom zmluvy.
 
-   Zmluvu môže predseda podpísať až po vyplnení čísla uznesenia o poverení výboru a po podpise povereného člena výboru, inak je zmluva absolútne neplatná.
+    Zmluvu môže predseda podpísať až po vyplnení čísla uznesenia o poverení výboru a po podpise povereného člena výboru, inak je zmluva absolútne neplatná. 
 
-   Úlohou výboru je riadiť činnosť Urbariátu medzi zasadnutiami valného zhromaždenia. Výbor splnomocňuje svojich členov na konanie v konkrétnych veciach Urbariátu vo vzťahu k orgánom štátnej moci a správy a k iným právnym subjektom. Na svojom prvom zasadnutí zvolia členovia výboru z pomedzi seba predsedu Urbariátu a určia ostatné funkcie. Výbor je oprávnený kedykoľvek počas svojho funkčného obdobia odvolať svojich členov z funkcií alebo ich nahradiť inými. Na platnosť uznesenia a dosiahnutie rozhodnutia výboru je potrebný súhlas nadpolovičnej väčšiny zo všetkých zvolených členov, t. j. najmenej 3 hlasy. Výbor je 5-členný.
+    Úlohou výboru je riadiť činnosť Urbariátu medzi zasadnutiami valného zhromaždenia. Výbor splnomocňuje svojich členov na konanie v konkrétnych veciach Urbariátu vo vzťahu k orgánom štátnej moci a správy a k iným právnym subjektom. Na svojom prvom zasadnutí zvolia členovia výboru z pomedzi seba predsedu Urbariátu a určia ostatné funkcie. Výbor je oprávnený kedykoľvek počas svojho funkčného obdobia odvolať svojich členov z funkcií alebo ich nahradiť inými. Na platnosť uznesenia a dosiahnutie rozhodnutia výboru je potrebný súhlas nadpolovičnej väčšiny zo všetkých zvolených členov, t. j. najmenej 3 hlasy. Výbor je 5-členný.
 
 2. Volebné obdobie orgánov spoločenstva je 5 rokov.
+
 3. **Dozorná rada** má najmenej 3 členov, kontroluje činnosť spoločenstva a prerokúva sťažnosti členov. Členstvo v dozornej rade je nezlučiteľné s členstvom vo výbore. Člen dozornej rady nesmie byť blízkou osobou člena výboru v zmysle § 116 zákona č. 40/1964 Zb. Občiansky zákonník (príbuzný v priamom rade, súrodenec a manžel; iné osoby v pomere rodinnom alebo obdobnom sa pokladajú za osoby sebe navzájom blízke, ak by ujmu, ktorú utrpela jedna z nich, druhá dôvodne pociťovala ako vlastnú ujmu). Ak dôjde k voľbe osôb, ktoré sú v takomto vzťahu, zvolená osoba s neskorším dátumom vzniku mandátu (resp. osoba, u ktorej vznikne konflikt) je povinná sa do 15 dní od volieb vzdať členstva v jednom z orgánov, prípadne nastupuje náhradník v súlade s výsledkami volieb. Toto obmedzenie sa vzťahuje na voľby členov dozornej rady konané po dni nadobudnutia účinnosti týchto stanov; mandáty členov dozornej rady zvolených pred týmto dňom zostávajú nedotknuté do uplynutia ich funkčného obdobia.
 
 ### V. Hospodárenie spoločenstva a rozdelenie zisku
 
 1. Z ročného zisku spoločenstva sa prednostne uhrádzajú daňové povinnosti, dane z nehnuteľností, plánované nevyhnutné prevádzkové náklady (najmä nákup sadeníc, lesné práce, vyžínanie a úprava ciest a hraníc) a nevyhnutné náklady na činnosť orgánov spoločenstva.
-2. Schválená čistá čiastka určená na rozdelenie dividend sa prerozdeľuje podľa týchto zásad:
 
-   * **90 %** pre členov spoločenstva pomerne podľa veľkosti ich podielov/výmery na spoločnej nehnuteľnosti,
-   * **1,5 %** pre členov aktívne sa podieľajúcich na hospodárskej činnosti spoločenstva (ťažba, zalesňovanie, úprava ciest a pod.),
-   * **1 %** pre členov dozornej rady,
-   * **7,5 %** pre členov výboru spoločenstva.
+2. Schválená čistá čiastka určená na rozdelenie dividend sa prerozdeľuje podľa týchto zásad:
+    * **90 %** pre členov spoločenstva pomerne podľa veľkosti ich podielov/výmery na spoločnej nehnuteľnosti,
+    * **1,5 %** pre členov aktívne sa podieľajúcich na hospodárskej činnosti spoločenstva (ťažba, zalesňovanie, úprava ciest a pod.),
+    * **1 %** pre členov dozornej rady,
+    * **7,5 %** pre členov výboru spoločenstva.
 
 3. Dividendy a podiely, ktoré oprávnená osoba alebo jej splnomocnenec neprevezmú osobne do troch rokov od dátumu splatnosti a zároveň vlastník alebo správca neoznámil číslo účtu, na ktorý sa mu podiely majú uhrádzať, prepadávajú v prospech spoločenstva a kompenzujú sa nimi náklady na činnosť orgánov spoločenstva a administráciu podielov vlastníka.
-4. Ak spoločenstvo v príslušnom kalendárnom roku nedosiahne žiaden zisk alebo sa zisk nerozdeľuje, náklady na činnosť a výkon orgánov spoločenstva sa kompenzujú z členských príspevkov. Základný ročný členský príspevok (administratívny poplatok za správu) vo výške **5,- EUR** pre členov je plne financovaný z príjmov spoločenstva.
-5. V prípade nekonzistentných, rôzne zapísaných podielov alebo chýbajúcich zápisov sa výška poplatku podľa bodu 4 násobí nasledovne:
 
-   * ak je počet rôznych zápisov podielov na LV spoločnej nehnuteľnosti > 0, suma administratívneho poplatku je **2-násobok** základnej sadzby,
-   * ak je počet chýbajúcich zápisov na LV spoločnej nehnuteľnosti > 0, suma administratívneho poplatku je **3-násobok** základnej sadzby.
-      Uvedené zvýšené sadzby administratívneho poplatku sa začnú uplatňovať až po **uplynutí prechodného obdobia 2 rokov** od nadobudnutia účinnosti týchto stanov, počas ktorého majú členovia možnosť svoje podiely v katastri nehnuteľností upraviť do právne konformnej formy.
+4. Ak spoločenstvo v príslušnom kalendárnom roku nedosiahne žiaden zisk alebo sa zisk nerozdeľuje, náklady na činnosť a výkon orgánov spoločenstva sa kompenzujú z členských príspevkov. Základný ročný členský príspevok (administratívny poplatok za správu) vo výške **5,- EUR** pre členov je plne financovaný z príjmov spoločenstva.
+
+5. V prípade nekonzistentných, rôzne zapísaných podielov alebo chýbajúcich zápisov sa výška poplatku podľa bodu 4 násobí nasledovne:
+    * ak je počet rôznych zápisov podielov na LV spoločnej nehnuteľnosti > 0, suma administratívneho poplatku je **2-násobok** základnej sadzby,
+    * ak je počet chýbajúcich zápisov na LV spoločnej nehnuteľnosti > 0, suma administratívneho poplatku je **3-násobok** základnej sadzby.
+    Uvedené zvýšené sadzby administratívneho poplatku sa začnú uplatňovať až po **uplynutí prechodného obdobia 2 rokov** od nadobudnutia účinnosti týchto stanov, počas ktorého majú členovia možnosť svoje podiely v katastri nehnuteľností upraviť do právne konformnej formy.
 
 6. Zvýšené sadzby poplatkov za nekonzistentné a chýbajúce zápisy v LV sú podielnici povinní vyplatiť spoločenstvu osobitne, a to buď po zápočte voči rozdelenému hospodárskemu výsledku spoločenstva podielov, alebo priamo z vlastných finančných prostriedkov na základe výzvy spoločenstva.
+
 7. Členské príspevky a poplatky sa môžu sčítavať a započítať voči najbližšiemu rozdeleniu hospodárskeho výsledku spoločenstva. T. j. poplatky a členské príspevky za zvýšenú administratívnu záťaž sa nepremlčiavajú.
+
 8. Ak pohľadávka spoločenstva voči podielnikovi na schválených administratívnych poplatkoch a súvisiacich príspevkoch zostane neuhradená ani po uplynutí lehoty splatnosti a po zaslaní výzvy na úhradu, výbor spoločenstva je povinný bez zbytočného odkladu uplatniť pohľadávku právnou cestou, najmä podaním žaloby na súd a následným návrhom na vykonanie exekúcie na majetok dlžníka. Ak spoločenstvo v rámci exekučného konania nadobudne do svojho vlastníctva podiel dlžníka, výbor môže tento podiel previesť späť na pôvodného podielnika na základe písomnej dohody za predpokladu, že dlžník v plnom rozsahu uhradí svoj pôvodný dlh vrátane všetkých trov exekúcie, a to najneskôr do 10 rokov od vzniku pohľadávky.
+
+### VI. Úhrada skutočných nákladov a škody pri neúspešných a bezdôvodných sporoch iniciovaných členom
+
+1. Člen spoločenstva je povinný pred prípadným podaním súdnej žaloby voči spoločenstvu alebo jeho orgánom vyvinúť úsilie na zmierlivé riešenie sporu a predložiť vec na prerokovanie výboru spoločenstva, resp. najbližšiemu valnému zhromaždeniu.
+2. Ak súd svojim právoplatným rozhodnutím skonštatuje, že súdna žaloba člena voči spoločenstvu bola nedôvodná, resp. že člen konal v rozpore s dobrými mravmi alebo účelovo na poškodenie spoločenstva, spoločenstvo má voči tomuto členovi nárok na náhradu celej škody.
+3. Škodu podľa odseku 2 tvoria všetky skutočne vynaložené náklady spoločenstva v súvislosti s vedením takého sporu, najmä celková reálna odmena za právne zastúpenie (vrátane rozdielu medzi reálne zaplatenou zmluvnou odmenou advokátovi a trovami konania priznanými súdom podľa tarify), hotové výdavky, znalečné a iné preukázateľné výdavky, ktoré by spoločenstvo inak nemuselo vynaložiť.
+4. Po právoplatnom skončení sporu a určení výšky tejto škody je výbor spoločenstva oprávnený jednostranne započítať túto pohľadávku spoločenstva oproti nároku tohto člena na výplatu podielu na hospodárení (dividend), a to až do výšky celkovej skutočnej škody a nákladov.
+
+### VII. Zodpovednosť za náklady a škodu pri porušení zákona a súdnych sporoch iniciovaných spoločenstvom
+
+1. Člen spoločenstva je povinný zdržať sa akéhokoľvek konania v rozpore so zákonom o pozemkových spoločenstvách, všeobecne záväznými právnymi predpismi a vnútornými predpismi spoločenstva.
+2. Ak člen spoločenstva poruší svoje povinnosti alebo zákon (najmä ak uskutoční právny úkon v rozpore so zákonom, obíde predkupné právo spoločenstva alebo iné zákonné obmedzenia) a odmietne vec vyriešiť mimosúdnou cestou na základe výzvy spoločenstva, najmä mimosúdneho dovolania sa neplatnosti právneho úkonu alebo nápravy protiprávneho stavu, spoločenstvo je oprávnené domáhať sa svojich práv a ochrany na súde.
+3. Ak súd svojim právoplatným rozhodnutím vyhovie žalobe spoločenstva voči členovi podľa odseku 2, spoločenstvo má voči tomuto členovi nárok na náhradu celej škody a všetkých účelne vynaložených nákladov.
+4. Škodu a náklady podľa odseku 3 tvoria najmä súdne poplatky, hotové výdavky, znalečné a všetky skutočne vynaložené náklady spoločenstva na právne zastúpenie a mimosúdnu právnu pomoc či rokovania (vrátane celkovej reálnej zmluvnej odmeny advokátovi presahujúcej tarifnú náhradu priznanú súdom).
+5. Po právoplatnom skončení súdneho konania a vyčíslení týchto nákladov je výbor spoločenstva oprávnený jednostranne započítať túto pohľadávku spoločenstva oproti nároku dotknutého člena na výplatu podielu na hospodárení (dividend), a to až do výšky úplného uspokojenia pohľadávky spoločenstva.
