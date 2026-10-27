@@ -76,21 +76,6 @@ h3 {
     letter-spacing: 0.5px;
     margin-top: 22px;
     margin-bottom: 10px;
-    text-align: center !important;
-    page-break-after: avoid;
-    border-bottom: 1px solid #FEB2B2;
-    padding-bottom: 4px;
-    clear: both;
-}
-
-h4 {
-    font-size: 11pt;
-    font-weight: 700;
-    color: #742A2A;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-    margin-top: 22px;
-    margin-bottom: 10px;
     text-align: left !important;
     page-break-after: avoid;
     border-bottom: 1px solid #FEB2B2;
@@ -105,42 +90,33 @@ p {
     text-justify: inter-word;
 }
 
-hr {
-    border: 0;
-    border-top: 0.5px solid #FEB2B2;
-    margin: 20px 0;
-    clear: both;
-}
-
-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 10px;
-    margin-bottom: 15px;
+/* Vlastné štýly pre farebné alert boxy so slovenskými labelmi */
+.alert {
+    padding: 12px 15px;
+    margin: 15px 0;
+    border-left: 4px solid;
+    border-radius: 4px;
     font-size: 9.5pt;
     page-break-inside: avoid;
 }
 
-th, td {
-    border: 1px solid #FEB2B2;
-    padding: 6px 10px;
+.alert p {
+    margin: 0;
     text-align: left;
 }
 
-th {
-    background-color: #FFF5F5;
-    color: #742A2A;
-    font-weight: 600;
-    text-transform: uppercase;
-    font-size: 8.5pt;
-    letter-spacing: 0.3px;
+.alert-warning {
+    background-color: #FFFAF0;
+    border-color: #DD6B20;
+    color: #7B341E;
 }
 
-tr:nth-child(even) {
-    background-color: #FFF9F9;
+.alert-note {
+    background-color: #F0FFF4;
+    border-color: #38A169;
+    color: #22543D;
 }
 
-/* Opravené štýly pre zoznamy, aby sa nerozpadávali a mali správny odstup */
 ul, ol {
     margin-top: 5px;
     margin-bottom: 10px;
@@ -153,11 +129,6 @@ li {
     margin-bottom: 4px;
     text-align: justify;
 }
-
-ul ul, ol ol, ul ol, ol ul {
-    margin-top: 3px;
-    margin-bottom: 3px;
-}
 """
 
 def preprocess_markdown(text):
@@ -166,18 +137,19 @@ def preprocess_markdown(text):
     text = text.replace('m²', 'm&sup2;')
     text = text.replace('m^2', 'm&sup2;')
     
-    # Zabezpečí prázdny riadok pred tabuľkou
-    text = re.sub(r'(\*\*LV č\.[^*]+\*\*)\n(\|)', r'\1\n\n\2', text)
+    # Bezpečne konvertuje bloky na čisté alert divy pre WeasyPrint
+    text = re.sub(
+        r'>\s*\[!CAUTION\]\s*\n>\s*(.*)', 
+        r'<div class="alert alert-warning"><strong>⚠️ Upozornenie:</strong> \1</div>', 
+        text
+    )
+    text = re.sub(
+        r'>\s*\[!INFO\]\s*\n>\s*>\s*\n>\s*>\s*<span style="color: red;">(.*?)<\/span>', 
+        r'<div class="alert alert-note"><strong>🟢 Poznámka:</strong> <span style="color: #22543D;">\1</span></div>', 
+        text, 
+        flags=re.DOTALL
+    )
     
-    # 💡 NOVÉ: Automaticky zabezpečí prázdny riadok pred každým nadpisom (h3/h4),
-    # ak ho zabudnete v Markdown súbore dať, čím zabráni "vlepeniu" nadpisu do predošlého bodu.
-    text = re.sub(r'([^\n])\n(###\s+[IVXLCDM]+\.)', r'\1\n\n\2', text)
-    
-    # Zabezpečí prázdny riadok pred odrážkami zoznamu, ak chýba
-    text = re.sub(r'([^\n])\n(\*\s+)', r'\1\n\n\2', text)
-    
-    text = re.sub(r'[ \t]+\|', '|', text)
-    text = re.sub(r'\|[ \t]+', '|', text)
     return text
 
 def convert_md_to_pdf(md_path_str, custom_title=None):
@@ -195,10 +167,8 @@ def convert_md_to_pdf(md_path_str, custom_title=None):
             md_content = f.read()
         
     document_title = custom_title if custom_title else md_path.stem
-
     cleaned_md = preprocess_markdown(md_content)
 
-    # Pridané rozšírenie 'sane_lists', ktoré krotí správanie zoznamov v Pythone
     html_body = markdown.markdown(cleaned_md, extensions=['tables', 'fenced_code', 'attr_list', 'sane_lists'])
     
     full_html = f"""
@@ -219,9 +189,9 @@ def convert_md_to_pdf(md_path_str, custom_title=None):
     </html>
     """
     
-    
-    pdf_path = md_path.with_suffix('.pdf')
-    pdf_path = md_path.parent / "pdf" / pdf_path.name
+    pdf_dir = md_path.parent / "pdf"
+    pdf_dir.mkdir(parents=True, exist_ok=True)
+    pdf_path = pdf_dir / f"{md_path.stem}.pdf"
         
     print(f"Generujem PDF: '{document_title}' -> {pdf_path.name}...")
     
