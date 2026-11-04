@@ -35,6 +35,8 @@ Materiál je rozdelený do dvoch častí:
 > [!IMPORTANT]
 > Navrhované riešenie pripomienkujúcim spôsobí podľa názoru [autora](https://github.com/maty535) plynutie času pre akceptáciu ponuky už od momentu zverejnenia tejto kompletnej ponuky, tým padom by výbor ukrátil podeilnikov o 25, resp. 30 dní, ktoré získajú, ak sa ponuka zverejní na webe spoločenstva až v deň Valného zhromaždenia, kde výbor môže podielnikov poučiť o procese akceptácie ponuky, resp. sa dohodnúť, že ponuku akceptujú všetci a výbor v ich mene uzatvorí kúpnu zmluvu, pričom cenu platí právnická osoba, t.z. spoločenstvo podľa: [§ 9 odsek 10 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/#paragraf-9.odsek-10)
 
+- Návrh: neakceptovaný
+
 
 
 
