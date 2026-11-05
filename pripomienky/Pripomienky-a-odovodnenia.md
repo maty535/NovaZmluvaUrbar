@@ -73,6 +73,9 @@ Materiál je rozdelený do dvoch častí:
 * **4. Navrhované nové znenie (zapracované v Čl. VII ods. 6 návrhu stanov):**
   > 6. Zvýšená sadzba administratívneho poplatku podľa odseku 5 sa neuplatní voči členovi spoločenstva, ktorý výboru hodnoverným spôsobom (najmä predložením podacieho lístka, potvrdenia súdu, súdneho komisára – notára alebo katastrálneho odboru okresného úradu) preukáže, že už podal návrh na dodatočné prejednanie dedičstva alebo návrh na opravu či zosúladenie zápisu v katastri nehnuteľností, a to počas celej doby až do právoplatného skončenia príslušného úradného konania.
 
+
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 4: Zodpovednosť členov orgánov za škodu a postihnutie podielu (Čl. VI bod 4)
@@ -88,6 +91,9 @@ Materiál je rozdelený do dvoch častí:
 
 * **4. Navrhované nové znenie (zapracované v Čl. VIII ods. 4 návrhu stanov):**
   > 4. Členovia výboru a dozornej rady zodpovedajú za škodu spôsobenú spoločenstvu úmyselným protiprávnym konaním pri výkone svojej funkcie celým svojím majetkom v súlade so všeobecnými právnymi predpismi. O uplatnení nároku na náhradu škody a podaní žaloby na súd rozhoduje zhromaždenie na základe písomnej správy dozornej rady. Po právoplatnom priznaní nároku na náhradu škody súdom je spoločenstvo oprávnené vymáhať túto pohľadávku prednostne formou jednostranného započítania voči nárokom povinného člena na výplatu podielu na zisku (dividend) a v rámci exekučného konania aj postihnutím jeho spoluvlastníckeho podielu na spoločnej nehnuteľnosti pri plnom rešpektovaní predkupného práva ostatných spoluvlastníkov podľa zákona.
+
+
+- Návrh: akceptovaný :+1:
 
 ---
 
@@ -106,6 +112,8 @@ Materiál je rozdelený do dvoch častí:
 
 * **4. Navrhované nové znenie (zapracované v Čl. IX ods. 4 návrhu stanov):**
   > 4. Presné vyčíslenie nákladov a škody podľa odseku 3, doložené príslušnými faktúrami, zmluvou o poskytovaní právnych služieb a evidenciou odpracovaného času, predloží výbor na preskúmanie a písomné odsúhlasenie dozornej rade. Po odsúhlasení výšky pohľadávky dozornou radou zašle výbor dotknutému členovi písomnú výzvu na úhradu s lehotou splatnosti najmenej 15 dní; po márnom uplynutí tejto lehoty je výbor oprávnený pohľadávku spoločenstva jednostranne započítať voči nárokom tohto člena na výplatu podielu na zisku (dividend), a to až do výšky celkovej preukázanej škody.
+
+- Návrh: akceptovaný :+1:
 
 ---
 
@@ -131,6 +139,10 @@ Materiál je rozdelený do dvoch častí:
   > 
   > Vlastníci podielov na spoločnej nehnuteľnosti združení v pozemkovom spoločenstve **Urbariát Dulova Ves p.s.**, nadväzujúc na historickú tradíciu hospodárenia svojich predkov, prijímajú tieto stanovy s cieľom zabezpečiť odborné, trvalo udržateľné a hospodárne spravovanie spoločného majetku. Účelom týchto stanov je nastoliť transparentné pravidlá riadenia spoločenstva, sprehľadniť a zosúladiť evidenciu spoluvlastníckych podielov s katastrom nehnuteľností, posilniť osobnú zodpovednosť volených orgánov, predchádzať vnútorným sporom a chrániť práva a oprávnené záujmy všetkých poctivých podielnikov.
 
+
+
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 7: Definícia pojmu „obvyklé miesto zverejnenia“ a zjednotenie terminológie v Čl. I
@@ -153,6 +165,10 @@ Materiál je rozdelený do dvoch častí:
   > 
   > 6. **Obvyklým miestom zverejnenia** oznámení, pozvánok a informácií spoločenstva v zmysle [§ 14 ods. 2 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/#paragraf-14.odsek-2) je oficiálne webové sídlo spoločenstva **https://urbar.dulovaves.sk** (ďalej len „obvyklé miesto zverejnenia“ alebo „webové sídlo spoločenstva“).
 
+
+
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 8: Praktické príklady ohlasovaných skutočností pre laických členov (Čl. II bod 2)
@@ -174,6 +190,10 @@ Materiál je rozdelený do dvoch častí:
   >    - d) zmeny čísla bankového účtu (IBAN) určeného na vyplácanie podielu na zisku (dividend),
   >    - e) úmrtia spoluvlastníka a právoplatného rozhodnutia o dedičstve, ako aj uzavretia kúpnej, darovacej alebo inej zmluvy, ktorou dochádza k zmene vlastníka podielu.
 
+
+
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 9: Jednoznačnosť oslovenia všetkých spoluvlastníkov pri predkupnom práve (Čl. II bod 3 písm. a)
@@ -189,6 +209,10 @@ Materiál je rozdelený do dvoch častí:
 
 * **4. Navrhované nové znenie (zapracované v Čl. II ods. 4 písm. a návrhu stanov):**
   > a) **osobitnou písomnou ponukou** zaslanou priamo **všetkým** ostatným spoluvlastníkom spoločnej nehnuteľnosti, alebo
+
+
+
+- Návrh: akceptovaný :+1:
 
 ---
 
@@ -216,6 +240,10 @@ Materiál je rozdelený do dvoch častí:
   >    - b) Výbor zabezpečuje každodennú prevádzku, hospodárenie a právne zastupovanie spoločenstva navonok v medziach zákona, zmluvy o spoločenstve, týchto stanov a uznesení zhromaždenia; za výkon svojej činnosti zodpovedá priamo zhromaždeniu.
   >    - c) Dozorná rada je vo svojej kontrolnej činnosti nezávislá od výboru, dohliada na dodržiavanie právnych a vnútorných predpisov výborom a za výkon svojej činnosti zodpovedá výlučne zhromaždeniu.
 
+
+
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 11: Opisné vysvetlenie princípov rozhodovania zhromaždenia (Čl. III bod 4 a 5)
@@ -238,6 +266,10 @@ Materiál je rozdelený do dvoch častí:
   >    - a) o schválení zmluvy o spoločenstve, stanov, účtovnej závierky, rozdelení zisku, spôsobe hospodárenia a oddelení časti spoločnej nehnuteľnosti rozhoduje **nadpolovičnou väčšinou všetkých hlasov** (počítanou z celkovej výmery spoločnej nehnuteľnosti vrátane podielov v správe Slovenského pozemkového fondu, ak zákon pripúšťa jeho hlasovanie),
   >    - b) o voľbe a odvolaní členov orgánov spoločenstva, poverení konať pri nadobudnutí podielu, vstupe do obchodnej spoločnosti a zrušení spoločenstva rozhoduje **nadpolovičnou väčšinou hlasov členov spoločenstva, ktorých podiely nespravuje a s ktorými nenakladá Slovenský pozemkový fond**,
   >    - c) ak sa na riadnom zasadnutí nezíde potrebná nadpolovičná väčšina hlasov, môže výbor v súlade s [§ 15 ods. 5 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/#paragraf-15.odsek-5) zvolať mimoriadne zasadnutie zhromaždenia, na ktorom zhromaždenie rozhoduje nadpolovičnou väčšinou hlasov prítomných členov (okrem záležitostí, pri ktorých to zákon výslovne vylučuje).
+
+
+
+- Návrh: akceptovaný :+1:
 
 ---
 
@@ -299,6 +331,10 @@ Materiál je rozdelený do dvoch častí:
   > 
   > 5. Obmedzenie podľa odsekov 3 a 4 sa vzťahuje na voľby členov dozornej rady konané po dni nadobudnutia účinnosti týchto stanov. Mandáty členov dozornej rady zvolených pred týmto dňom zostávajú nedotknuté až do uplynutia ich funkčného obdobia.
 
+
+  
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 14: Zrozumiteľné vysvetlenie nekonzistentných a chýbajúcich zápisov na LV pre bežného člena (Čl. V bod 5)
@@ -329,6 +365,9 @@ Materiál je rozdelený do dvoch častí:
   > 
   > 7. Zvýšené sadzby administratívneho poplatku podľa odseku 5 písm. a) a b) sa začnú uplatňovať až po **uplynutí prechodného obdobia 2 rokov** odo dňa nadobudnutia účinnosti týchto stanov; pre nového člena, ktorý nadobudne podiel prevodom alebo prechodom (dedením) neskôr, plynie toto 2-ročné prechodné obdobie samostatne odo dňa nadobudnutia jeho podielu. Počas tohto prechodného obdobia majú členovia priestor zosúladiť svoje zápisy v katastri nehnuteľností do právne konformného stavu (jeden rovnaký spoluvlastnícky podiel na všetkých LV spoločnej nehnuteľnosti).
 
+
+- Návrh: akceptovaný :+1:
+
 ---
 
 ### Pripomienka č. 15: Kultivácia jazyka, odstránenie hovorových výrazov a zlúčenie duplicitných pasáží o sporoch (Čl. V body 6 až 12, Čl. VI, VII a VIII)
@@ -344,3 +383,6 @@ Materiál je rozdelený do dvoch častí:
 
 * **4. Navrhované nové znenie (zapracované v Čl. VII ods. 8 až 13, Čl. VIII a Čl. IX návrhu stanov):**
   *(Kompletné vykultivované texty týchto ustanovení sú plne zapracované v priloženom dokumente `2026-10-20-Stanovy-Navrh.md`).*
+
+
+- Návrh: akceptovaný :+1:
