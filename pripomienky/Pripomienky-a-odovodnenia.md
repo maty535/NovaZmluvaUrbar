@@ -35,7 +35,7 @@ Materiál je rozdelený do dvoch častí:
 > [!IMPORTANT]
 > Navrhované riešenie pripomienkujúcim spôsobí podľa názoru [autora](https://github.com/maty535) plynutie času pre akceptáciu ponuky už od momentu zverejnenia tejto kompletnej ponuky, tým padom by výbor ukrátil podielnikov o 25, resp. 30 dní, ktoré získajú, ak sa ponuka zverejní na webe spoločenstva až v deň Valného zhromaždenia, kde výbor môže podielnikov poučiť o procese akceptácie ponuky, resp. sa dohodnúť, že ponuku akceptujú všetci a výbor v ich mene uzatvorí kúpnu zmluvu, pričom cenu platí právnická osoba, t.z. spoločenstvo podľa: [§ 9 odsek 10 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/#paragraf-9.odsek-10)
 
-- Návrh: neakceptovaný
+- Návrh: neakceptovaný :-1:
 
 ---
 
@@ -54,7 +54,7 @@ Materiál je rozdelený do dvoch častí:
   > 3. Schválené podiely na zisku (dividendy), ktoré si oprávnený člen alebo jeho splnomocnenec neprevezme do troch rokov odo dňa ich splatnosti z dôvodu, že spoločenstvu neoznámil platné číslo bankového účtu ani si ich nevyzdvihol v hotovosti, eviduje spoločenstvo na osobitnom účte nevyplatených záväzkov. Po uplynutí všeobecnej trojročnej premlčacej doby podľa [§ 101 zákona č. 40/1964 Zb. Občiansky zákonník](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1964/40/#paragraf-101) je výbor spoločenstva pri prípadnom oneskorenom uplatnení takéhoto nároku povinný vzniesť námietku premlčania; takto premlčané nevyplatené prostriedky sa na základe rozhodnutia výboru preúčtujú do nerozdeleného zisku spoločenstva a použijú sa na úhradu nákladov spojených so správou spoločnej nehnuteľnosti a vedením evidencie členov.
 
 - Návrh: akceptovaný :+1:
-- 
+
 ---
 
 ### Pripomienka č. 3: Liberačná doložka pri zvýšených poplatkoch za nesúlady v LV (Čl. V bod 5)
