@@ -37,9 +37,6 @@ Materiál je rozdelený do dvoch častí:
 
 - Návrh: neakceptovaný
 
-
-
-
 ---
 
 ### Pripomienka č. 2: Režim nevyplatených dividend po 3 rokoch – premlčanie namiesto prepadnutia (Čl. V bod 3)
@@ -56,6 +53,8 @@ Materiál je rozdelený do dvoch častí:
 * **4. Navrhované nové znenie (zapracované v Čl. VII ods. 3 návrhu stanov):**
   > 3. Schválené podiely na zisku (dividendy), ktoré si oprávnený člen alebo jeho splnomocnenec neprevezme do troch rokov odo dňa ich splatnosti z dôvodu, že spoločenstvu neoznámil platné číslo bankového účtu ani si ich nevyzdvihol v hotovosti, eviduje spoločenstvo na osobitnom účte nevyplatených záväzkov. Po uplynutí všeobecnej trojročnej premlčacej doby podľa [§ 101 zákona č. 40/1964 Zb. Občiansky zákonník](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/1964/40/#paragraf-101) je výbor spoločenstva pri prípadnom oneskorenom uplatnení takéhoto nároku povinný vzniesť námietku premlčania; takto premlčané nevyplatené prostriedky sa na základe rozhodnutia výboru preúčtujú do nerozdeleného zisku spoločenstva a použijú sa na úhradu nákladov spojených so správou spoločnej nehnuteľnosti a vedením evidencie členov.
 
+- Návrh: akceptovaný :+1:
+- 
 ---
 
 ### Pripomienka č. 3: Liberačná doložka pri zvýšených poplatkoch za nesúlady v LV (Čl. V bod 5)
