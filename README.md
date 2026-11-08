@@ -7,3 +7,8 @@
 ### Pracovný návrh novej zmluvy 
 - [Zmluva](./2026-10-20-Zmluva.md)
 - [Stanovy](./2026-10-20-Stanovy.md)
+
+### Pripomienkovacie konanie
+
+- [doručené pripomienky](./pripomienky/Pripomienky-a-odovodnenia.md)
+- [nové konsolidované znenie stanov](./pripomienky/2026-10-20-Stanovy-Navrh.md)
