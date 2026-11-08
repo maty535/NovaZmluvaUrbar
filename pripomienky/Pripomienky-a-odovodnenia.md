@@ -4,7 +4,7 @@ Tento dokument obsahuje komplexný pripomienkový materiál k pracovnému návrh
 1. **Pôvodné znenie v návrhu** (presná citácia dotknutej časti),
 2. **Identifikovaný problém a riziko** (prečo súčasná formulácia predstavuje problém),
 3. **Princíp a odôvodnenie riešenia** (akým spôsobom sa problém odstraňuje pri zachovaní zámeru autora),
-4. **Navrhované nové znenie** (hotový text zapracovaný v súbore `2026-10-20-Stanovy-Navrh.md`).
+4. **Navrhované nové znenie** (hotový text zapracovaný v súbore [2026-10-20-Stanovy-Navrh-pripomienkovanie.md](./2026-10-20-Stanovy-Navrh.md)).
 
 Všetky legislatívne citácie obsahujú priame overiteľné odkazy do Slov-Lexu na konkrétne paragrafy, odseky a písmená príslušných predpisov.
 
