@@ -41,7 +41,7 @@ Materiál je rozdelený do dvoch častí:
 > * Pripomienkujúcim navrhované riešenie spôsobí podľa názoru [autora](https://github.com/maty535) plynutie času pre akceptáciu ponuky už od momentu zverejnenia tejto kompletnej ponuky na obvyklom mieste zverejnenia spolu s pozvánkou, tým padom po konaní valného zhromaždenia by bola celková doba na akceptáciu ponuky iba 1 mesiac, resp. 60 - 25 dni = 35 dni, t.z. 25, resp. 30 dní získajú všetci podielnici, ak sa ponuka zverejní na webe spoločenstva až v deň Valného zhromaždenia, kde výbor môže podielnikov poučiť o procese akceptácie ponuky, resp. sa dohodnúť, že ponuku akceptujú všetci a výbor v ich mene uzatvorí kúpnu zmluvu, pričom cenu platí právnická osoba, t.z. spoločenstvo podľa: [§ 9 odsek 10 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/ezbierky/pravne-predpisy/SK/ZZ/2013/97/#paragraf-9.odsek-10)
 
 - Návrh: neakceptovaný :-1:
-- Je možné predložiť nárvh primienkovateľa ako alternatívny návrh textu tohto bodu pre valné zhromaždenie, aj keď súdy Slovenskej Republiky judikujú, že doba na uplatnenie ponuky začína plynúť najneskôr od dátumu  konania valného zhromaždenia (čo súdy SR považujú za najnekoršiu dobu, kedy by sa mala kompletná ponuka dostať do dispozičnej sféry každého podielnka), ak zo zmluvy, alebo stanov o pozemkovom spoločenstve nevyplýva niečo iné.
+- Aktuálny zámerom autora nie je urýchliť tento proces, hlavne kvôli konaniu pána Jarkovského v prípade viacnásobného a opakovaného porušenia predkupného práva podielnikov.
 
 ---
 
