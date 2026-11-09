@@ -11,4 +11,4 @@
 ### Pripomienkovacie konanie
 
 - [doručené pripomienky](./pripomienky/Pripomienky-a-odovodnenia.md)
-- [nové konsolidované znenie stanov](./2026-10-20-Stanovy-Navrh.md)
+- [nové konsolidované znenie stanov](./2026-10-20-Stanovy.md)
