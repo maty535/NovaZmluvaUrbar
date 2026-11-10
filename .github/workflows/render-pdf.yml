@@ -57,22 +57,19 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 1. Nehnuteľnosti (Spustí sa ak sa zmenil vstup, ALEBO ak chýba výstupné PDF)
+     # 1. Nehnuteľnosti
       - name: Run Nehnutelnosti Renderer
         run: |
-          FILE=$(ls *Nehnutelnosti*.md | head -n 1)
-          echo "Spúšťam pre súbor: $FILE"
-          python src/genMd2Pdf-Nehnutelnosti.py "$FILE"
-        if: steps.filter.outputs.nehnutelnosti == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/*Nehnutelnosti*.pdf')
+          python src/genMd2Pdf-Nehnutelnosti.py "2026-ZoznamNehnutelnosti.md"
+        if: steps.filter.outputs.nehnutelnosti == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/2026-ZoznamNehnutelnosti.pdf')
 
       # 2. Vlastníci
       - name: Run Vlastnici Renderer
         run: |
-          FILE=$(ls *Vlastnikov*.md | head -n 1)
-          echo "Spúšťam pre súbor: $FILE"
-          python src/genMd2Pdf-vlastnici.py "$FILE"
-        if: steps.filter.outputs.vlastnici == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/*Vlastnikov*.pdf')
+          python src/genMd2Pdf-vlastnici.py "2026-10-22-ZoznamVlastnikov.md"
+        if: steps.filter.outputs.vlastnici == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/2026-10-22-ZoznamVlastnikov.pdf')
 
+        
       # 3. Zmluva / Stanovy
       - name: Run Zmluva / Stanovy Renderer
         run: |
