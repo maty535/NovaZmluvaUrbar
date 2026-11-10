@@ -4,7 +4,7 @@ Počet vlastníkov: 298 · Celková výmera urbáru: 1 286 889,00 m² · Vygener
 
 Urbariát Dulova Ves p.s.
 
-Obchodná 25/15, 082 52 Dulova Ves · IČO: 42379831 · Mobil: +421 905 384 750 · Email: urbar.dulova@gmail.com · Web: urbar.dulovaves.sk
+Obchodná 25/15, 082 52 Dulova Ves · IČO: 42379831 · Email: urbar.dulova@gmail.com · Web: urbar.dulovaves.sk
 
 ---
 
