@@ -1,9 +1,9 @@
-name: Render Specific PDFs
+name: Render Output PDFs
 
 on:
   push:
     branches:
-      - main  # prípadne 'master'
+      - main
   workflow_dispatch:
 
 jobs:
@@ -57,13 +57,13 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-      # 1. Nehnuteľnosti (nájde súbor s kľúčovým slovom bez ohľadu na dátum)
+      # 1. Nehnuteľnosti (Spustí sa ak sa zmenil vstup, ALEBO ak chýba výstupné PDF)
       - name: Run Nehnutelnosti Renderer
         run: |
           FILE=$(ls *Nehnutelnosti*.md | head -n 1)
           echo "Spúšťam pre súbor: $FILE"
           python src/genMd2Pdf-Nehnutelnosti.py "$FILE"
-        if: steps.filter.outputs.nehnutelnosti == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.filter.outputs.nehnutelnosti == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/*Nehnutelnosti*.pdf')
 
       # 2. Vlastníci
       - name: Run Vlastnici Renderer
@@ -71,9 +71,9 @@ jobs:
           FILE=$(ls *Vlastnikov*.md | head -n 1)
           echo "Spúšťam pre súbor: $FILE"
           python src/genMd2Pdf-vlastnici.py "$FILE"
-        if: steps.filter.outputs.vlastnici == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.filter.outputs.vlastnici == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/*Vlastnikov*.pdf')
 
-      # 3. Zmluva / Stanovy (tu môžete spustiť oboje, ak sa zmení zmluva alebo stanovy)
+      # 3. Zmluva / Stanovy
       - name: Run Zmluva / Stanovy Renderer
         run: |
           if ls *Stanovy*.md 1> /dev/null 2>&1; then
@@ -86,14 +86,13 @@ jobs:
             echo "Spúšťam pre zmluvu: $FILE_ZMLUVA"
             python src/genMd2Pdf-zmluva.py "$FILE_ZMLUVA"
           fi
-        if: steps.filter.outputs.zmluva == 'true' || github.event_name == 'workflow_dispatch'
+        if: steps.filter.outputs.zmluva == 'true' || github.event_name == 'workflow_dispatch' || !hashFiles('pdf/*Stanovy*.pdf') || !hashFiles('pdf/*Zmluva*.pdf')
 
       - name: Commit and push generated PDFs
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # Pridá všetky vygenerované PDF zo zložky pdf/
           git add pdf/*.pdf || true
           
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-render updated PDFs via GitHub Actions [skip ci]" && git push)
