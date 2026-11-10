@@ -26,10 +26,10 @@ jobs:
           filters: |
             nehnutelnosti:
               - 'src/genMd2Pdf-Nehnutelnosti.py'
-              - '*Nehnutelnosti*.md'
+              - '2026-ZoznamNehnutelnosti.md'
             vlastnici:
               - 'src/genMd2Pdf-vlastnici.py'
-              - '*Vlastnikov*.md'
+              - '2026-10-22-ZoznamVlastnikov.md'
             zmluva:
               - 'src/genMd2Pdf-zmluva.py'
               - '*Stanovy*.md'
