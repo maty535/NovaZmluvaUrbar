@@ -148,6 +148,7 @@ Materiál je rozdelený do dvoch častí:
 
 
 - Návrh: akceptovaný :+1:
+- Autor veľmi oceňuje túto pripomienku pripomienkovateľa, zároveň autor pridáva historický kontext a nástupníctvo po Bývalých urbárských gazdoch obce Guľvas a nimi založenej Pasienkovej spoločnosti v Dulovej Vsi.
 
 ---
 
@@ -272,7 +273,6 @@ Materiál je rozdelený do dvoch častí:
   >    - a) o schválení zmluvy o spoločenstve, stanov, účtovnej závierky, rozdelení zisku, spôsobe hospodárenia a oddelení časti spoločnej nehnuteľnosti rozhoduje **nadpolovičnou väčšinou všetkých hlasov** (počítanou z celkovej výmery spoločnej nehnuteľnosti vrátane podielov v správe Slovenského pozemkového fondu, ak zákon pripúšťa jeho hlasovanie),
   >    - b) o voľbe a odvolaní členov orgánov spoločenstva, poverení konať pri nadobudnutí podielu, vstupe do obchodnej spoločnosti a zrušení spoločenstva rozhoduje **nadpolovičnou väčšinou hlasov členov spoločenstva, ktorých podiely nespravuje a s ktorými nenakladá Slovenský pozemkový fond**,
   >    - c) ak sa na riadnom zasadnutí nezíde potrebná nadpolovičná väčšina hlasov, môže výbor v súlade s [§ 15 ods. 5 zákona č. 97/2013 Z. z.](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/97/#paragraf-15.odsek-5) zvolať mimoriadne zasadnutie zhromaždenia, na ktorom zhromaždenie rozhoduje nadpolovičnou väčšinou hlasov prítomných členov (okrem záležitostí, pri ktorých to zákon výslovne vylučuje).
-
 
 
 - Návrh: akceptovaný :+1:
