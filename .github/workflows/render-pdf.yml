@@ -57,16 +57,35 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
+      # 1. Nehnuteľnosti (nájde súbor s kľúčovým slovom bez ohľadu na dátum)
       - name: Run Nehnutelnosti Renderer
-        run: python src/genMd2Pdf-Nehnutelnosti.py
+        run: |
+          FILE=$(ls *Nehnutelnosti*.md | head -n 1)
+          echo "Spúšťam pre súbor: $FILE"
+          python src/genMd2Pdf-Nehnutelnosti.py "$FILE"
         if: steps.filter.outputs.nehnutelnosti == 'true' || github.event_name == 'workflow_dispatch'
 
+      # 2. Vlastníci
       - name: Run Vlastnici Renderer
-        run: python src/genMd2Pdf-vlastnici.py
+        run: |
+          FILE=$(ls *Vlastnikov*.md | head -n 1)
+          echo "Spúšťam pre súbor: $FILE"
+          python src/genMd2Pdf-vlastnici.py "$FILE"
         if: steps.filter.outputs.vlastnici == 'true' || github.event_name == 'workflow_dispatch'
 
-      - name: Run Zmluva Renderer
-        run: python src/genMd2Pdf-zmluva.py
+      # 3. Zmluva / Stanovy (tu môžete spustiť oboje, ak sa zmení zmluva alebo stanovy)
+      - name: Run Zmluva / Stanovy Renderer
+        run: |
+          if ls *Stanovy*.md 1> /dev/null 2>&1; then
+            FILE_STANOVY=$(ls *Stanovy*.md | head -n 1)
+            echo "Spúšťam pre stanovy: $FILE_STANOVY"
+            python src/genMd2Pdf-zmluva.py "$FILE_STANOVY"
+          fi
+          if ls *Zmluva*.md 1> /dev/null 2>&1; then
+            FILE_ZMLUVA=$(ls *Zmluva*.md | head -n 1)
+            echo "Spúšťam pre zmluvu: $FILE_ZMLUVA"
+            python src/genMd2Pdf-zmluva.py "$FILE_ZMLUVA"
+          fi
         if: steps.filter.outputs.zmluva == 'true' || github.event_name == 'workflow_dispatch'
 
       - name: Commit and push generated PDFs
@@ -74,7 +93,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          # PDF súbory sa ukladajú do vášho priečinka pdf/
+          # Pridá všetky vygenerované PDF zo zložky pdf/
           git add pdf/*.pdf || true
           
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-render updated PDFs via GitHub Actions [skip ci]" && git push)
