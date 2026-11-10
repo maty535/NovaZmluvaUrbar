@@ -1,1 +1,1 @@
-Tu su vystupy z generovania z makrdownov
+Tu su vystupy z generovania z makrdown vstupnych suborov
