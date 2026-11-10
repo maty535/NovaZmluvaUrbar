@@ -42,6 +42,8 @@ Materiál je rozdelený do dvoch častí:
 
 - Návrh: neakceptovaný :-1:
 - Aktuálnym zámerom autora nie je urýchliť tento proces, hlavne kvôli konaniu pána Jarkovského (kauza skupu podiel po Jozefovi Leľakovi) v prípade viacnásobného a opakovaného porušenia predkupného práva podielnikov a hlbokej nevedomosti, ktorú podielnici predviedli počas tohto sporu s ním, ktorí, ak by boli právne uvedomelí, potom už na začiatku by Leľakov podiel skúpili bez akýchkoľvek problémov, ešte za jeho života, keďže všetci vedeli v akej životnej situácii sa ocitol.
+- Autor považuje dlhodobý spor s pánom Jarkoským za následok – nie príčinu – slabej komunikácie a chýbajúcich medziľudských väzieb v spoločenstve.
+
   
 ---
 
