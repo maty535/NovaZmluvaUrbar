@@ -1,0 +1,80 @@
+name: Render Specific PDFs
+
+on:
+  push:
+    branches:
+      - main  # prípadne 'master'
+  workflow_dispatch:
+
+jobs:
+  render-pdfs:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check for file changes
+        uses: dorny/paths-filter@v3
+        id: filter
+        with:
+          filters: |
+            nehnutelnosti:
+              - 'src/genMd2Pdf-Nehnutelnosti.py'
+              - '*Nehnutelnosti*.md'
+            vlastnici:
+              - 'src/genMd2Pdf-vlastnici.py'
+              - '*Vlastnikov*.md'
+            zmluva:
+              - 'src/genMd2Pdf-zmluva.py'
+              - '*Stanovy*.md'
+              - '*Zmluva*.md'
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install system dependencies for WeasyPrint
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libpango-1.0-0 \
+            libharfbuzz0b \
+            libpangoft2-1.0-0 \
+            libjpeg-dev \
+            libopenjp2-7-dev \
+            libffi-dev
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run Nehnutelnosti Renderer
+        run: python src/genMd2Pdf-Nehnutelnosti.py
+        if: steps.filter.outputs.nehnutelnosti == 'true' || github.event_name == 'workflow_dispatch'
+
+      - name: Run Vlastnici Renderer
+        run: python src/genMd2Pdf-vlastnici.py
+        if: steps.filter.outputs.vlastnici == 'true' || github.event_name == 'workflow_dispatch'
+
+      - name: Run Zmluva Renderer
+        run: python src/genMd2Pdf-zmluva.py
+        if: steps.filter.outputs.zmluva == 'true' || github.event_name == 'workflow_dispatch'
+
+      - name: Commit and push generated PDFs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # PDF súbory sa ukladajú do vášho priečinka pdf/
+          git add pdf/*.pdf || true
+          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-render updated PDFs via GitHub Actions [skip ci]" && git push)
